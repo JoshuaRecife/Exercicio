@@ -88,9 +88,7 @@ public class Exercicio03 {
 		System.out.println("Salário: "+salario);
 		System.out.println("Sexo: "+sexo);
 		System.out.println("Estado Civil: "+estadoCivil);
-		
-		
-		
+	
 	}
 
 }
