@@ -1,5 +1,6 @@
 package com.joshua.exercicios;
 
+
 public class Exercicio23 {
 
 	public static void main(String[] args) {
@@ -15,6 +16,7 @@ public class Exercicio23 {
 //		2 - R$ 3.98
 //		...
 //		50 - r$ 99.5
+				
 		System.out.println("Loja Quase Dois - Tabela de preços");
 		for(int i = 1;i<=50;i++){
 			System.out.println(+i+" - R$ "+(i*1.99));
