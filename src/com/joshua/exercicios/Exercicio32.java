@@ -7,8 +7,7 @@ public class Exercicio32 {
 //		imprima no final a soma da Série.
 //		Terá que aparecer na tela essa formatação:
 //		s = 1/1 + 2/3 + 3/5 + 4/7 + 5/9 + 6/11 + 7/13 + 8/15 + 9/17.
-//		A soma do i é = 45
-//		A soma do j é = 81
+//		s = 45/81
 		int somaI = 0;
 		int somaJ = 0;
 		System.out.print("s = ");
