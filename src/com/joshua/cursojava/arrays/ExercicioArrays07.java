@@ -17,7 +17,6 @@ public class ExercicioArrays07 {
 			System.out.println("Digite o valor do vetor A da posição: "+i);
 			vetorA[i] = scan.nextInt();
 		}
-
 		for(int i=0;i<vetorA.length;i++){
 			System.out.println("Digite o valor do vetor B da posição: "+i);
 			vetorB[i] = scan.nextInt();
