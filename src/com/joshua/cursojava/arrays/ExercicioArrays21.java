@@ -10,6 +10,7 @@ public class ExercicioArrays21 {
 		int[] vetorA = new int[10];
 		int um = 0;
 		int zero = 0;
+		
 		for(int i=0;i<vetorA.length;i++){
 			vetorA[i] = (int) Math.round(Math.random() * 1);
 			
