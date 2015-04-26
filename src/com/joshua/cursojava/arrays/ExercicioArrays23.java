@@ -16,7 +16,7 @@ public class ExercicioArrays23 {
 		boolean palindromo = true;
 		
 		for(int i=0;i<vetorA.length;i++){
-			System.out.println("Digite somente números pares na posição:  "+i);
+			System.out.println("Digite 10 números para formar um palíndromo. Digite o número da posição:  "+i);
 			vetorA[i] = scan.nextInt();
 		}
 		
